@@ -1,16 +1,23 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.4287c2ec.css",
-    "main.js": "/portfolio-react/static/js/main.36f9d4c7.js",
+    "main.js": "/portfolio-react/static/js/main.f630655c.js",
     "static/js/787.a2cb61a6.chunk.js": "/portfolio-react/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Run Buddy.png": "/portfolio-react/static/media/Run Buddy.1fdb1c1833acc46ae87f.png",
+    "static/media/pizzahunt.png": "/portfolio-react/static/media/pizzahunt.27b09049e9cfbfc833cf.png",
+    "static/media/sportlytics.png": "/portfolio-react/static/media/sportlytics.0275176c46273b9c6a8a.png",
+    "static/media/saysomething.png": "/portfolio-react/static/media/saysomething.ee18baf3304a81c5552c.png",
+    "static/media/techblog.png": "/portfolio-react/static/media/techblog.b0317a7626d1de0f9b49.png",
     "static/media/cover-page.jpg": "/portfolio-react/static/media/cover-page.bd7cc7dc44753007b299.jpg",
+    "static/media/weather-dashboard.png": "/portfolio-react/static/media/weather-dashboard.711a8fc02820cd721ff1.png",
+    "static/media/note-taker.png": "/portfolio-react/static/media/note-taker.059f8f597e1020cc03d0.png",
     "index.html": "/portfolio-react/index.html",
     "main.4287c2ec.css.map": "/portfolio-react/static/css/main.4287c2ec.css.map",
-    "main.36f9d4c7.js.map": "/portfolio-react/static/js/main.36f9d4c7.js.map",
+    "main.f630655c.js.map": "/portfolio-react/static/js/main.f630655c.js.map",
     "787.a2cb61a6.chunk.js.map": "/portfolio-react/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4287c2ec.css",
-    "static/js/main.36f9d4c7.js"
+    "static/js/main.f630655c.js"
   ]
 }
